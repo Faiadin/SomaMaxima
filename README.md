@@ -19,3 +19,6 @@ Resultado esperado: 40 ;
 
 Vetor:  20  5  3  -13  9  10  -7
 resultado esperado: 34 ;
+
+#  Autor
+Felipe Faiad
